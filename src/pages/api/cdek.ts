@@ -1,7 +1,7 @@
 import type { NextApiRequest, NextApiResponse } from 'next';
 
-const CDEK_LOGIN = 'n7NhVMi58oSGXhGMv8QUQSiOTlLLj6uL';
-const CDEK_PASS = 'i1OohFW3XppUkJSUZqjvENbIWU7nR8vs';
+const CDEK_LOGIN = 'ANea2n2jdZZ9CENP0OIfMycjZ6UquHyE';
+const CDEK_PASS = 'MXNn60CAXVmFkc8jIIBNZPAx5WnWubJx';
 
 type RequestData = {
   action?: string;
